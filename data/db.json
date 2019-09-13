@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Student": 4
+  },
+  "models": {
+    "Student": {
+      "1": "{\"name\":\"John Doe\",\"birthdate\":\"2010-09-10T12:01:56.177Z\",\"id\":1}",
+      "2": "{\"name\":\"James Clear\",\"birthdate\":\"2010-09-10T12:01:56.177Z\",\"id\":2}",
+      "3": "{\"name\":\"Joseph Blue\",\"birthdate\":\"2010-09-10T12:01:56.177Z\",\"id\":3}"
+    }
+  }
+}
